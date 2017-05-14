@@ -1,1 +1,11 @@
-# akbasli.github.io
+# Skorcu / Scorer
+Basit bir skor tutma uygulaması / Simple score keeping app
+<br /><br />
+<b>Türkçe</b>
+<br />Skorcu projesinde basit bir skor tutma uygulaması yaptım. İki oyuncunun oynadıkları herhangi bir oyundaki skorlarını yazabilecekleri ve oyun için bir bitiş skoru belirleyebilecekleri bölümler mevcut. Birinci oyuncu ve ikinci oyuncu butonlarını kullanarak ilgili yerlere skorlar otomatik olarak işlenir. Oyun bitiş skoruna ulaşan ilk oyuncunun skor hanesindeki renk kırmızı olarak değişir. Oyun bittikten sonra sayı butonları daha fazla değişikliğe izin vermez. Sadece sıfırlama butonu ile oyunun yeniden başlaması için skorlar sıfırlanır. Oyun esnasında bitiş skoru belirlenen giriş kısmında değişiklik yapılırsa oyun otomatik olarak sıfırlanır. Bitiş skoru bölümüne elle de giriş yapılabilir.
+<br /><br />Bu proje ile DOM konusunda iyi bir alıştırma yapmış oldum. Bootstrap kullandım ve mevcut bir şablon üzerinde ufak değişiklikler yaparak uygulamanın ihtiyacına göre HTML ve CSS değişikliği yeteneğimi de geliştirdim. Projenin en sevdiğim yanlarından birisi, günlük hayatta çok fazla yer bulmasa da uygulamanın içeriğindeki işlevselliği sadelik ile sunabilmek oldu.
+<br /><br />
+<b>English</b>
+<br />I made a simple score keeping practice with the scorer project. There are sections where two players can write their scores in any game they play and set an end score for the game. Using the first player and second player buttons, scores are automatically processed for the respective places. The color of the score changes to red, whoever wins the game. After the game is over, the score adding buttons do not allow any more changes. Only the reset button resets the scores to enable restarting the game. If a change is made in the entry section where the end score is determined during the game, the game is automatically reset. The finish score section can also be manually entered.
+<br /><br />I have done a good exercise on DOM with this project. I have used Bootstrap and made minor changes to an existing template to improve the ability of the HTML and CSS changes according to the needs of the application. One of the things I like most about the project is to be able to present the functionality of the application with simplicity, even if there is not much use in daily life.
+
